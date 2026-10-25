@@ -1,0 +1,6 @@
+{
+  "name": "Q-Gen 5.0 | Hybrid Quantum-Generative AI Manufacturing",
+  "description": "Enterprise framework integrating QAOA/Annealing quantum optimization and Generative AI foundation models for resilient, human-centric Industry 5.0 manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
